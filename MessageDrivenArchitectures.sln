@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant.Notification", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant.Tests", "Restaurant.Tests\Restaurant.Tests.csproj", "{36D63843-7D9B-4AD6-984A-6D58516E248C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL.Restaurant.Kithen", "DAL.Restaurant.Kithen\DAL.Restaurant.Kithen.csproj", "{C0B0CC2F-AB0E-4C87-97E2-876FF6E90123}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{36D63843-7D9B-4AD6-984A-6D58516E248C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36D63843-7D9B-4AD6-984A-6D58516E248C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36D63843-7D9B-4AD6-984A-6D58516E248C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B0CC2F-AB0E-4C87-97E2-876FF6E90123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B0CC2F-AB0E-4C87-97E2-876FF6E90123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B0CC2F-AB0E-4C87-97E2-876FF6E90123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B0CC2F-AB0E-4C87-97E2-876FF6E90123}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
